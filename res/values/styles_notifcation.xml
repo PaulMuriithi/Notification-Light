@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="EditTextnotifcation" parent="android:Widget.EditText">
+	  <item name="android:background">@drawable/notifcation_edit_text_holo_light</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="AutoCompleteTextViewnotifcation" parent="android:Widget.AutoCompleteTextView">
+      <item name="android:dropDownSelector">@drawable/notifcation_list_selector_holo_light</item>
+	  <item name="android:background">@drawable/notifcation_edit_text_holo_light</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="CheckBoxnotifcation" parent="android:Widget.CompoundButton.CheckBox">
+      <item name="android:button">@drawable/notifcation_btn_check_holo_light</item>
+  </style>
+
+  <style name="RadioButtonnotifcation" parent="android:Widget.CompoundButton.RadioButton">
+      <item name="android:button">@drawable/notifcation_btn_radio_holo_light</item>
+  </style>
+
+  <style name="Buttonnotifcation" parent="android:Widget.Button">
+	  <item name="android:background">@drawable/notifcation_btn_default_holo_light</item>
+	  <item name="android:minHeight">48dip</item>
+	  <item name="android:minWidth">64dip</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="ImageButtonnotifcation" parent="android:Widget.ImageButton">
+	  <item name="android:background">@drawable/notifcation_btn_default_holo_light</item>
+  </style>
+
+  <style name="Spinnernotifcation" parent="android:Widget.Spinner">
+      <item name="android:background">@drawable/notifcation_spinner_background_holo_light</item>
+      <item name="android:dropDownSelector">@drawable/notifcation_list_selector_holo_light</item>
+  </style>
+
+  <style name="SpinnerDropDownItemnotifcation" parent="android:Widget.DropDownItem.Spinner">
+      <item name="android:checkMark">@drawable/notifcation_btn_radio_holo_light</item>
+  </style>
+  <style name="ProgressBarnotifcation" parent="android:Widget.ProgressBar.Horizontal">
+      <item name="android:progressDrawable">@drawable/notifcation_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/notifcation_progress_indeterminate_horizontal_holo_light</item>
+      <item name="android:minHeight">16dip</item>
+      <item name="android:maxHeight">16dip</item>
+  </style>
+
+  <style name="SeekBarnotifcation" parent="android:Widget.SeekBar">
+      <item name="android:progressDrawable">@drawable/notifcation_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/notifcation_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:minHeight">13dip</item>
+      <item name="android:maxHeight">13dip</item>
+      <item name="android:thumb">@drawable/notifcation_scrubber_control_selector_holo_light</item>
+      <item name="android:thumbOffset">16dip</item>
+      <item name="android:paddingLeft">16dip</item>
+      <item name="android:paddingRight">16dip</item>
+  </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationLight</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_btn_flashes">Time between flashes (ms)</string>
+    <string name="time_on">Time on (ms)</string>
+    <string name="color">Color</string>
+    <string name="test">Test</string>
+
+</resources>

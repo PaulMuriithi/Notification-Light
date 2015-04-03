@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="notifcation" parent="@style/_notifcation"/>
+
+  <style name="_notifcation" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/notifcation_edit_text_holo_light</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewnotifcation</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/notifcation_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/notifcation_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/Buttonnotifcation</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonnotifcation</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/Spinnernotifcation</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarnotifcation</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarnotifcation</item>
+
+  </style>
+
+</resources>

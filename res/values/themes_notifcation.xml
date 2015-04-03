@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="notifcation" parent="@style/_notifcation"/>
+
+  <style name="_notifcation" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextStyle">@style/EditTextnotifcation</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewnotifcation</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxnotifcation</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonnotifcation</item>
+
+    <item name="android:buttonStyle">@style/Buttonnotifcation</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonnotifcation</item>
+
+    <item name="android:spinnerStyle">@style/Spinnernotifcation</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemnotifcation</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarnotifcation</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarnotifcation</item>
+
+  </style>
+
+</resources>
